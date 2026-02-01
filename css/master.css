@@ -244,3 +244,8 @@ nav .navlinks li a {
   object-fit: cover;
   border-radius: 50%; /* optional */
 }
+.copyright-text{
+    text-align: center;
+    background-color:rgb(24, 24, 23) ;
+    color: white;
+}
