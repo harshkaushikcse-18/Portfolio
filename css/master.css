@@ -237,3 +237,10 @@ nav .navlinks li a {
         padding: 40px 0px;
     }
 }
+
+.logo img {
+  width: 40px;   /* make it small */
+  height: 40px;  /* keep it square */
+  object-fit: cover;
+  border-radius: 50%; /* optional */
+}
